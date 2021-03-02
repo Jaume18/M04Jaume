@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns = "http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tres noticies informatiques</title>
+        <link>http://127.0.0.1:5500/web.html</link>
+        <description>Noticies sobre la nova informatica </description>
+  
+          <item>
+              <title>El nou llenguatge de programcio obligatori internacional serà JAVHK</title>
+              <link>https://noticies.webflow.io/</link>
+              <description>Explica el nou canvi de programcio que s'implementara aquests curs.</description>
+          </item>
+  
+          <item>
+              <title>Bomba informatica Espanyola</title>
+              <link>https://noticia2.webflow.io/</link>
+              <description>Aquesta noticia tracta de l'ultima hora de l'informatica Espanyola.</description>
+          </item>
+  
+          <item>
+              <title>Fira informatica al carrer major de Lleida</title>
+              <link>https://noticia-3.webflow.io/</link>
+              <description>L'institut caparrella ha organitzat aquests cap de setmana una fira informatica al carrer major de Lleida.</description>
+          </item>
+      </channel>
+  
+</feed>
