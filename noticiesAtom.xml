@@ -2,7 +2,7 @@
 <feed xmlns = "http://www.w3.org/2005/Atom">
     <channel>
         <title>Tres noticies informatiques</title>
-        <link>http://127.0.0.1:5500/web.html</link>
+        <link>https://jaume18.github.io/M04Jaume/</link>
         <description>Noticies sobre la nova informatica </description>
   
           <item>
